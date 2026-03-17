@@ -27,7 +27,7 @@ I love tackling complex challenges through hands-on projects. From vulnerability
 
 
 
-[linkedin]: https://linkedin.com/in/emmanuel-adebola-6334903b3
+[linkedin]: https://linkedin.com/in/emmanuel-adebola-6334903b3.
 
 
 🔭 I’m currently working on ... Threat Hunting,SecOps.
