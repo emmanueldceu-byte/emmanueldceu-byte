@@ -14,7 +14,7 @@ I love tackling complex challenges through hands-on projects. From vulnerability
 - **[Vulnerability Management Program Implementation](https://github.com/emmanueldceu-byte/Vulnerability-Management-Program-Implementation/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Identity and Access ManageMent Projects
+## ⚠️  Identity and Access Management Projects
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
@@ -26,7 +26,7 @@ I love tackling complex challenges through hands-on projects. From vulnerability
 
 <hr/>
 
-## 🚨 Cloud Security Operations Projects
+## ⚠️  Cloud Security Operations Projects
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 ## 🤳 Connect With Me
