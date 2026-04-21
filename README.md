@@ -6,7 +6,7 @@ I am passionate about Linux, cybersecurity, and cloud computing, with a strong c
 
 In cybersecurity, I am developing skills in ethical hacking, network security, and threat analysis, driven by the goal of protecting systems and data. At the same time, I am exploring cloud computing to build scalable and secure infrastructure, combining my interests to grow into a well-rounded professional capable of both building and defending modern systems.
 
-I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check these projects out and see the work I’ve put into enhancing security operations and processes!
+I love tackling complex challenges through hands-on projects. From vulnerability management to Identity and Access Management to threat detection and all in all, Cloud Security Operations. These projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check these projects out and see the work I’ve put into enhancing security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
