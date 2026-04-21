@@ -16,7 +16,7 @@ I love tackling complex challenges through hands-on projects. From vulnerability
 
 ## ⚠️  Identity and Access Management Projects
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/emmanueldceu-byte/IAMLABS)**
 
 
 
