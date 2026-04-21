@@ -23,12 +23,13 @@ I love tackling complex challenges through hands-on projects. From vulnerability
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[CyberSecurity * A.I ](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
 
 ## ⚠️  Cloud Security Operations Projects
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[CloudSecOps](https://github.com/emmanueldceu-byte/CloudSecOps/blob/main/README.md)**
 ## 🤳 Connect With Me
 
 
