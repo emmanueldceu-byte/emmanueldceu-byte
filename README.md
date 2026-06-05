@@ -14,35 +14,12 @@ I love tackling complex challenges through hands-on projects. From vulnerability
 - **[Vulnerability Management Program Implementation](https://github.com/emmanueldceu-byte/Vulnerability-Management-Program-Implementation/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## ⚠️  Identity and Access Management Projects
 
-- **[Identity And Access Management Labs and Projects](https://github.com/emmanueldceu-byte/IAMLABS)**
-
-
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-- **[CyberSecurity * A.I ](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
-<hr/>
-
-## ⚠️  Cloud Security Operations Projects
-
-- **[CloudSecOps](https://github.com/emmanueldceu-byte/CloudSecOps/blob/main/README.md)**
 ## 🤳 Connect With Me
 
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-
-[linkedin]: https://linkedin.com/in/emmanuel-adebola-6334903b3.
-
-
-🔭 I’m currently working on ... Threat Hunting,SecOps.
-
-🌱 I’m currently learning ...Threat Hunting,SecOps.
 
 ⚡ Fun fact: ... Love Sports. 🏆⚽️🏀🏈🎾
 
