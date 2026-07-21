@@ -18,7 +18,7 @@ I love tackling complex challenges through hands-on projects. From vulnerability
 ## 🤳 Connect With Me
 
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/emmanuel-adebola-6334903b3/[linkedin]
 
 
 ⚡ Fun fact: ... Love Sports. 🏆⚽️🏀🏈🎾
