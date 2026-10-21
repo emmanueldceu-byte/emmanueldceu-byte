@@ -1,8 +1,8 @@
-## All Things Linux, CyberSecurity and Cloud. 
+## All Things CyberSecurity and Cloud. 
 
 # <a href="https://www.linkedin.com/in/emmanuel-adebola-6334903b3/">Emmanuel</a>'s IT, Cloud and Cybersecurity Project Portfolio 🔐
 
-I am passionate about Linux, cybersecurity, and cloud computing, with a strong curiosity for understanding systems at a deeper level. My interest in Linux has led me to explore distributions, master command-line tools, and study system internals, while continuously building problem-solving skills through hands-on experience.
+I am passionate about  cybersecurity, and cloud computing, with a strong curiosity for understanding systems at a deeper level. My interest in Linux has led me to explore distributions, master command-line tools, and study system internals, while continuously building problem-solving skills through hands-on experience.
 
 In cybersecurity, I am developing skills in ethical hacking, network security, and threat analysis, driven by the goal of protecting systems and data. At the same time, I am exploring cloud computing to build scalable and secure infrastructure, combining my interests to grow into a well-rounded professional capable of both building and defending modern systems.
 
